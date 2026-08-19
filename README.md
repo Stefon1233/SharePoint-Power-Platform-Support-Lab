@@ -99,6 +99,12 @@ Example ticket statuses include:
 
 ![IT Support Requests](screenshots/sharepoint/01-it-support-requests-list.png)
 
+### SharePoint IT Support Request Gallery
+
+The gallery view provides a visual overview of active and resolved support requests, including requester, department, category, priority, and status.
+
+![IT Support Requests Gallery](screenshots/sharepoint/02-it-support-requests-gallery.png)
+
 ---
 
 # SharePoint Permissions
