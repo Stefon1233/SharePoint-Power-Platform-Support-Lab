@@ -25,9 +25,9 @@ The project was designed to demonstrate practical skills used in Microsoft 365 s
 
 # Project Architecture
 
-## Architecture Diagram
+### Architecture Diagram
 
-![SharePoint Power Platform Architecture](diagrams/sharepoint-power-platform-architecture.png)
+![IT Support Ticket Solution Architecture](diagrams/IT-Support-Ticket-Solutions-Architecture-Diagram.png)
 
 ```text
 Microsoft Entra ID
