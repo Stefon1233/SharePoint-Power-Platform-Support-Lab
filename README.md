@@ -148,6 +148,39 @@ A test user was granted Read access while SharePoint Members retained Edit acces
 
 ---
 
+# Power Apps — IT Support Request Manager
+
+A Microsoft Power Apps canvas application was built on top of the SharePoint IT Support Requests list to provide technicians with a streamlined interface for managing help-desk tickets.
+
+The application allows technicians to:
+
+* Create new support tickets
+* Search and browse existing requests
+* View ticket details
+* Update ticket status
+* Assign technicians
+* Record resolution notes
+* Track resolved dates
+* Manage requests without directly editing the SharePoint list
+
+### Ticket Dashboard
+
+![Power Apps Ticket Dashboard](screenshots/power-apps/03-ticket-dashboard.png)
+
+### New Ticket Form
+
+![Power Apps New Ticket Form](screenshots/power-apps/01-new-ticket-form.png)
+
+### Resolved Ticket Details
+
+![Power Apps Resolved Ticket Details](screenshots/power-apps/02-resolved-ticket-details.png)
+
+### New Ticket Saved
+
+![Power Apps New Ticket Saved](screenshots/power-apps/04-new-ticket-saved.png)
+
+For detailed implementation documentation, see [`documentation/04-power-apps.md`](documentation/04-power-apps.md).
+
 # Power Automate
 
 Three Power Automate workflows were created to automate the IT support process.
